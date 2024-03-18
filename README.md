@@ -1,6 +1,6 @@
 # AppSalon 💇‍♂️💇‍♀️
 ### Este es un proyecto de aplicación web de citas y servicios de un salón de belleza.
-> Explora el sitio web en el siguiente enlace: [AppSalon](https://binnipu.nyc.dom.my.id/)
+> Explora la demo del sitio web en el siguiente enlace: [AppSalon](https://binnipu.nyc.dom.my.id/)
 
 ![Imagen de Pagina Web](https://github.com/IgnaG-Dev/appsalon-mvc-php/assets/163780789/80b6d76a-04a6-4bb4-84b6-6b4421359d2e "Pagina Web AppSalon")
 ## Funcionalidades principales 🥇
@@ -53,7 +53,9 @@
    ```
 
 
-## Rendimiento
+## Rendimiento ✅
+A continuación te dejamos algunos parametros de rendimiento de la página web utilizando el plugin [LIghthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?pli=1)
+
 ![Rendimiento](https://github.com/IgnaG-Dev/appsalon-mvc-php/assets/163780789/529de4f7-639e-49a2-91fb-c6c77bed84b2 "Rendimiento de AppSalon")
 
 ## Contribución 📨
