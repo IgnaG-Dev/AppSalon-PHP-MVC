@@ -43,15 +43,14 @@
 
 ### Puedes acceder al sistema mediante las siguientes claves de acceso:
 
-_Usuario_
-```
-usuario@usuario.com
-```
-_Contraseña_
-
-```
-123456
-```
+- _Usuario_:
+   ```
+   usuario@usuario.com
+   ```
+- _Contraseña_:
+   ```
+   123456
+   ```
 
 
 ## Rendimiento
